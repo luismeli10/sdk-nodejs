@@ -13,6 +13,7 @@ body:
         Your feedback is valuable to improve the SDK. Before submitting:
         - 🔍 **Search [existing issues](./issues?q=is%3Aissue) to avoid duplicates**.
         - 📚 **Check the [documentation](https://www.mercadopago.com/developers/es/docs) to confirm this isn't already supported**.
+        - 🔄 **If migrating from Stripe, review the [migration guide](../../MIGRATION_STRIPE_TO_MERCADOPAGO.md) first**.
 
   - type: dropdown
     id: feature-type

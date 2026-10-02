@@ -2,6 +2,8 @@
 
 Thank you for your interest in contributing to the Mercado Pago NodeJS SDK!
 
+For questions or documentation changes related to moving payment flows from Stripe, consult the [migration guide](MIGRATION_STRIPE_TO_MERCADOPAGO.md) before proposing SDK changes.
+
 ## How to contribute
 
 In order to contribute to the Mercado Pago NodeJS SDK effectively we provide guidelines to address common case for

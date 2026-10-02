@@ -30,7 +30,7 @@ export declare type Config = {
 export declare type Options = {
 	/** HTTP request timeout in milliseconds (default: 10 000). */
 	timeout?: number;
-	/** Unique key to guarantee idempotent write operations. Auto-generated when omitted. */
+	/** Optional key for idempotent write operations; reuse it when retrying the same operation. */
 	idempotencyKey?: string;
 	/** MercadoPago-assigned platform identifier (sent as `X-Platform-Id`). */
 	platformId?: string;
