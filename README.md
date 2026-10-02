@@ -23,7 +23,7 @@ $ npm install --save mercadopago
 
 2. Copy the access_token in the [credentials](https://www.mercadopago.com/developers/en/docs/your-integrations/credentials) section of the page and replace YOUR_ACCESS_TOKEN with it.
 
-That's it! Mercado Pago SDK has been successfully installed.
+The SDK is ready. If you're moving from Stripe, follow the [Stripe to Mercado Pago migration guide](MIGRATION_STRIPE_TO_MERCADOPAGO.md) before switching payment flows.
 
 ## 🌟 Getting Started
 

@@ -19,7 +19,7 @@
 
 **Search first, ask later:**
 
-1. **[Official Documentation](https://www.mercadopago.com/developers/es/docs)** - Most questions are answered here
+1. **[Official Documentation](https://www.mercadopago.com/developers/es/docs)** - Most questions are answered here; for questions about moving payment flows from Stripe, consult the [Stripe to Mercado Pago migration guide](./MIGRATION_STRIPE_TO_MERCADOPAGO.md) first.
 2. **[Closed Issues](../../issues?q=is%3Aissue+is%3Aclosed)** - Your problem may be solved
 3. **[Open Issues](../../issues?q=is%3Aissue+is%3Aopen)** - Your problem may be already reported
 ---

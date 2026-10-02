@@ -51,7 +51,7 @@ export { OAuth } from './clients/oAuth';
 export { MerchantOrder } from './clients/merchantOrder';
 /** User client — retrieves the authenticated MercadoPago account profile. */
 export { User } from './clients/user';
-/** Order client — creates, processes, captures, cancels, and refunds orders (v2 API). */
+/** Order client — creates, processes, captures, cancels, and refunds orders. */
 export { Order } from './clients/order';
 
 export {

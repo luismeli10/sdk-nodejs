@@ -21,7 +21,7 @@ import type { Config, Options } from './types';
  *   accessToken: 'APP_USR-...',
  *   options: { timeout: 5000, idempotencyKey: 'unique-key' },
  * });
- * const payment = new Payment(config);
+ * const order = new Order(config);
  * ```
  *
  * @see {@link https://github.com/mercadopago/sdk-nodejs Documentation}

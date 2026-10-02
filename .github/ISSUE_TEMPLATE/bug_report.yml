@@ -16,6 +16,7 @@ body:
         - 🔍 **Search [existing issues](./issues?q=is%3Aissue) to avoid duplicates**
         - 📚 **Verify you are using the [latest version](../../releases)**
         - 💡 **Try to reproduce the problem in sandbox environment**
+        - 🔄 **Migrating from Stripe? Review the [migration guide](../../MIGRATION_STRIPE_TO_MERCADOPAGO.md) before reporting an integration issue**
         - ⚠️ **IMPORTANT: Your bug will be resolved faster if you can share a self-contained example that doesn't rely on internal or private dependencies.**
 
         > **🔒 SECURITY WARNING:** Issues without reproduction steps or code examples may be immediately closed as not actionable. Always remember to **REMOVE ALL PII AND PERSONAL INFORMATION** from your examples. **Bugs opened with real data will be immediately reported and closed.**
